@@ -1,0 +1,9 @@
+language: java
+jdk:
+ - oraclejdk8
+notifications:
+ email:
+ - gmuswe15@gmail.com
+ - nsamuel@gmu.edu
+ - greyes7@gmu.edu
+ - airwin3@gmu.edu
